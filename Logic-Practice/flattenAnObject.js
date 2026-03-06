@@ -9,6 +9,8 @@ let person = {
     },
 };
 
+
+
 function flattenAnObject(obj, parent = "", res = {}) {
 
     for (let key in obj) {
