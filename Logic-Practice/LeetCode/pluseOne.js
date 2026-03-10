@@ -1,4 +1,4 @@
-let digit = [9];
+let digit = [9,2,9];
 
 let right = digit.length - 1;
 
