@@ -11,3 +11,5 @@ var intersection = function(nums1, nums2) {
 
     return [...result];
 };
+
+console.log(intersection([2,3,5,3],[3,5]))
