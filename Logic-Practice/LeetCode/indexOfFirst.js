@@ -11,7 +11,7 @@ function check(haystack, needle) {
             }
         }
 
-        if (found) return i;
+        if (found) return i;    
     }
 
     return -1;
