@@ -11,5 +11,3 @@ var detectCapitalUse = function(word) {
     return false;
 };
 
-console.log(detectCapitalUse("USA"));   
-console.log(detectCapitalUse("FlaG"));  
